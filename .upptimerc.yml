@@ -9,9 +9,9 @@ sites:
   - name: yidiankuaile
     url: https://www.yidiankuaile.com
   - name: Backend
-    url: $SECRET_Backend_SITE
+    url: $SECRET_BACKEND_SITE
   - name: Qiandao
-    url: $SECRET_Qiandao
+    url: $SECRET_QIANDAO
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

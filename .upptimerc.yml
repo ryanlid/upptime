@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: GitHub
     url: https://github.com
+  - name: yidiankuaile
+    url: https://www.yidiankuaile.com
   - name: Backend
     url: $SECRET_Backend_SITE
   - name: Qiandao

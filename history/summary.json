@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 113,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "time": 144,
+    "timeDay": 144,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "yidiankuaile",
+    "url": "https://www.yidiankuaile.com",
+    "icon": "https://favicons.githubusercontent.com/www.yidiankuaile.com",
+    "slug": "yidiankuaile",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1201,
+    "timeDay": 1201,
+    "timeWeek": 1201,
+    "timeMonth": 1201,
+    "timeYear": 1201,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "backend",
     "status": "down",
-    "uptime": "9.94%",
-    "uptimeDay": "9.94%",
-    "uptimeWeek": "9.94%",
-    "uptimeMonth": "9.94%",
-    "uptimeYear": "9.94%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 0
+      "2021-01-04": 75
     }
   },
   {
@@ -54,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 0
+      "2021-01-04": 75
     }
   }
 ]

@@ -28,18 +28,19 @@
     "icon": "https://favicons.githubusercontent.com/www.yidiankuaile.com",
     "slug": "yidiankuaile",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "62.79%",
-    "uptimeWeek": "89.95%",
-    "uptimeMonth": "97.52%",
-    "uptimeYear": "99.50%",
+    "uptime": "99.54%",
+    "uptimeDay": "55.80%",
+    "uptimeWeek": "88.91%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "99.48%",
     "time": 2543,
-    "timeDay": 8733,
+    "timeDay": 9177,
     "timeWeek": 8223,
     "timeMonth": 6164,
     "timeYear": 2647,
     "dailyMinutesDown": {
-      "2022-02-27": 530,
+      "2022-02-28": 55,
+      "2022-02-27": 580,
       "2022-02-26": 404,
       "2022-02-25": 76,
       "2022-02-20": 21,
@@ -82,8 +83,7 @@
       "2021-10-23": 33,
       "2021-09-28": 32,
       "2021-09-25": 66,
-      "2021-09-22": 22,
-      "2021-02-28": 303
+      "2021-09-22": 22
     }
   },
   {
@@ -92,18 +92,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "backend",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "65.09%",
-    "uptimeWeek": "89.72%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.45%",
+    "uptimeDay": "58.10%",
+    "uptimeWeek": "88.68%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "99.40%",
     "time": 2382,
-    "timeDay": 6632,
+    "timeDay": 6833,
     "timeWeek": 6483,
     "timeMonth": 5430,
     "timeYear": 2475,
     "dailyMinutesDown": {
-      "2022-02-27": 499,
+      "2022-02-28": 55,
+      "2022-02-27": 549,
       "2022-02-26": 450,
       "2022-02-25": 88,
       "2022-02-13": 15,
@@ -170,12 +171,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 887,
-    "timeDay": 826,
+    "timeDay": 789,
     "timeWeek": 798,
     "timeMonth": 808,
     "timeYear": 877,
-    "dailyMinutesDown": {
-      "2021-02-28": 292
-    }
+    "dailyMinutesDown": {}
   }
 ]

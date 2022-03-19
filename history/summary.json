@@ -26,18 +26,19 @@
     "url": "https://www.yidiankuaile.com",
     "icon": "https://favicons.githubusercontent.com/www.yidiankuaile.com",
     "slug": "yidiankuaile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "96.06%",
-    "uptimeYear": "99.43%",
-    "time": 2648,
-    "timeDay": 1097,
-    "timeWeek": 2147,
-    "timeMonth": 6718,
-    "timeYear": 2793,
+    "uptimeYear": "99.44%",
+    "time": 2645,
+    "timeDay": 932,
+    "timeWeek": 2048,
+    "timeMonth": 6684,
+    "timeYear": 2790,
     "dailyMinutesDown": {
+      "2022-03-19": 0,
       "2022-03-16": 21,
       "2022-03-15": 15,
       "2022-03-07": 39,
@@ -85,7 +86,7 @@
       "2021-10-24": 16,
       "2021-10-23": 33,
       "2021-09-28": 32,
-      "2021-09-25": 66
+      "2021-09-25": 31
     }
   },
   {
@@ -95,9 +96,9 @@
     "slug": "backend",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "96.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "99.35%",
     "time": 2435,
     "timeDay": 1078,
@@ -105,7 +106,6 @@
     "timeMonth": 5434,
     "timeYear": 2566,
     "dailyMinutesDown": {
-      "2022-03-19": 9,
       "2022-03-16": 21,
       "2022-03-07": 16,
       "2022-03-06": 20,
@@ -156,7 +156,7 @@
       "2021-07-12": 493,
       "2021-07-02": 31,
       "2021-06-23": 22,
-      "2021-06-20": 20
+      "2021-06-20": 39
     }
   },
   {

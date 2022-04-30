@@ -34,7 +34,7 @@
     "uptimeYear": "99.36%",
     "time": 2509,
     "timeDay": 1129,
-    "timeWeek": 1020,
+    "timeWeek": 1056,
     "timeMonth": 1033,
     "timeYear": 2713,
     "dailyMinutesDown": {
@@ -95,18 +95,19 @@
     "url": "$SECRET_BACKEND_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "99.40%",
-    "time": 2346,
-    "timeDay": 1059,
-    "timeWeek": 1173,
-    "timeMonth": 1220,
-    "timeYear": 2544,
+    "uptimeYear": "99.41%",
+    "time": 2345,
+    "timeDay": 1029,
+    "timeWeek": 1150,
+    "timeMonth": 1215,
+    "timeYear": 2542,
     "dailyMinutesDown": {
+      "2022-04-30": 0,
       "2022-04-24": 25,
       "2022-04-22": 38,
       "2022-04-11": 19,
@@ -153,8 +154,7 @@
       "2021-09-28": 30,
       "2021-09-25": 64,
       "2021-09-22": 21,
-      "2021-08-29": 18,
-      "2021-08-22": 20
+      "2021-08-29": 18
     }
   },
   {

@@ -96,18 +96,19 @@
     "url": "$SECRET_BACKEND_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.39%",
     "time": 2331,
-    "timeDay": 1093,
-    "timeWeek": 1022,
-    "timeMonth": 1168,
-    "timeYear": 2532,
+    "timeDay": 904,
+    "timeWeek": 991,
+    "timeMonth": 1160,
+    "timeYear": 2529,
     "dailyMinutesDown": {
+      "2022-05-16": 0,
       "2022-05-02": 112,
       "2022-05-01": 1,
       "2022-04-24": 25,
@@ -155,8 +156,7 @@
       "2021-10-25": 76,
       "2021-09-28": 30,
       "2021-09-25": 64,
-      "2021-09-22": 21,
-      "2021-08-29": 18
+      "2021-09-22": 21
     }
   },
   {

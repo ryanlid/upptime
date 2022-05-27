@@ -26,18 +26,19 @@
     "url": "https://www.yidiankuaile.com",
     "icon": "https://favicons.githubusercontent.com/www.yidiankuaile.com",
     "slug": "yidiankuaile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.36%",
-    "time": 2424,
-    "timeDay": 909,
-    "timeWeek": 987,
-    "timeMonth": 1018,
-    "timeYear": 2613,
+    "time": 2423,
+    "timeDay": 898,
+    "timeWeek": 982,
+    "timeMonth": 1016,
+    "timeYear": 2611,
     "dailyMinutesDown": {
+      "2022-05-27": 0,
       "2022-05-25": 19,
       "2022-05-23": 35,
       "2022-05-22": 42,
@@ -86,8 +87,7 @@
       "2021-11-20": 16,
       "2021-11-19": 18,
       "2021-11-16": 18,
-      "2021-11-13": 41,
-      "2021-11-09": 24
+      "2021-11-13": 41
     }
   },
   {

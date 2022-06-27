@@ -26,18 +26,19 @@
     "url": "https://www.yidiankuaile.com",
     "icon": "https://favicons.githubusercontent.com/www.yidiankuaile.com",
     "slug": "yidiankuaile",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.36%",
-    "time": 2405,
+    "time": 2406,
     "timeDay": 769,
     "timeWeek": 897,
     "timeMonth": 933,
     "timeYear": 2585,
     "dailyMinutesDown": {
+      "2022-06-27": 1,
       "2022-05-29": 41,
       "2022-05-28": 18,
       "2022-05-27": 19,
@@ -87,8 +88,7 @@
       "2021-12-05": 35,
       "2021-12-01": 23,
       "2021-11-20": 16,
-      "2021-11-19": 18,
-      "2021-11-16": 18
+      "2021-11-19": 18
     }
   },
   {
@@ -96,18 +96,19 @@
     "url": "$SECRET_BACKEND_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "backend",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.34%",
     "time": 2333,
     "timeDay": 765,
     "timeWeek": 926,
     "timeMonth": 954,
     "timeYear": 2517,
     "dailyMinutesDown": {
+      "2022-06-27": 1,
       "2022-06-10": 20,
       "2022-05-27": 391,
       "2022-05-23": 35,
@@ -155,8 +156,7 @@
       "2021-11-01": 38,
       "2021-10-31": 16,
       "2021-10-28": 21,
-      "2021-10-27": 20,
-      "2021-10-25": 54
+      "2021-10-27": 20
     }
   },
   {
@@ -164,9 +164,9 @@
     "url": "$SECRET_QIANDAO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "qiandao",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -176,6 +176,7 @@
     "timeMonth": 821,
     "timeYear": 862,
     "dailyMinutesDown": {
+      "2022-06-27": 0,
       "2022-03-26": 26,
       "2022-03-07": 15
     }

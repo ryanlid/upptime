@@ -11,9 +11,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 158,
-    "timeDay": 56,
-    "timeWeek": 143,
-    "timeMonth": 161,
+    "timeDay": 142,
+    "timeWeek": 159,
+    "timeMonth": 163,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2023-02-09": 15,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.82%",
+    "uptimeMonth": "85.17%",
     "uptimeYear": "97.30%",
     "time": 2411,
-    "timeDay": 949,
-    "timeWeek": 903,
-    "timeMonth": 879,
+    "timeDay": 773,
+    "timeWeek": 875,
+    "timeMonth": 875,
     "timeYear": 2597,
     "dailyMinutesDown": {
       "2023-01-29": 805,
@@ -75,8 +75,7 @@
       "2022-03-02": 114,
       "2022-02-28": 451,
       "2022-02-27": 580,
-      "2022-02-26": 404,
-      "2022-02-25": 76
+      "2022-02-26": 404
     }
   },
   {
@@ -85,15 +84,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.32%",
+    "uptimeMonth": "85.17%",
     "uptimeYear": "96.97%",
     "time": 2315,
-    "timeDay": 1131,
-    "timeWeek": 1277,
-    "timeMonth": 1063,
+    "timeDay": 890,
+    "timeWeek": 1251,
+    "timeMonth": 1057,
     "timeYear": 2468,
     "dailyMinutesDown": {
       "2023-01-29": 805,
@@ -133,8 +132,7 @@
       "2022-03-01": 15,
       "2022-02-28": 451,
       "2022-02-27": 549,
-      "2022-02-26": 450,
-      "2022-02-25": 88
+      "2022-02-26": 450
     }
   },
   {
@@ -146,12 +144,12 @@
     "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.82%",
+    "uptimeMonth": "85.17%",
     "uptimeYear": "97.80%",
-    "time": 854,
-    "timeDay": 892,
-    "timeWeek": 828,
-    "timeMonth": 827,
+    "time": 853,
+    "timeDay": 672,
+    "timeWeek": 798,
+    "timeMonth": 821,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2023-01-29": 805,

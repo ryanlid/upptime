@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 159,
-    "timeDay": 161,
+    "timeDay": 59,
     "timeWeek": 168,
     "timeMonth": 123,
     "timeYear": 176,
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
-    "time": 2084,
-    "timeDay": 775,
-    "timeWeek": 856,
-    "timeMonth": 883,
-    "timeYear": 976,
+    "time": 2082,
+    "timeDay": 726,
+    "timeWeek": 822,
+    "timeMonth": 873,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2023-01-29": 805,
       "2023-01-28": 1440,
@@ -68,8 +68,7 @@
       "2022-04-22": 18,
       "2022-04-09": 16,
       "2022-04-08": 25,
-      "2022-03-26": 260,
-      "2022-03-16": 21
+      "2022-03-26": 260
     }
   },
   {
@@ -83,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.30%",
-    "time": 1953,
-    "timeDay": 1135,
-    "timeWeek": 1049,
-    "timeMonth": 1068,
-    "timeYear": 1025,
+    "time": 1934,
+    "timeDay": 836,
+    "timeWeek": 1009,
+    "timeMonth": 1062,
+    "timeYear": 1024,
     "dailyMinutesDown": {
       "2023-01-29": 805,
       "2023-01-28": 1440,
@@ -118,8 +117,7 @@
       "2022-04-09": 37,
       "2022-04-05": 20,
       "2022-04-04": 40,
-      "2022-03-26": 260,
-      "2022-03-16": 21
+      "2022-03-26": 260
     }
   },
   {
@@ -133,10 +131,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.80%",
-    "time": 857,
-    "timeDay": 744,
-    "timeWeek": 869,
-    "timeMonth": 993,
+    "time": 856,
+    "timeDay": 677,
+    "timeWeek": 837,
+    "timeMonth": 984,
     "timeYear": 863,
     "dailyMinutesDown": {
       "2023-01-29": 805,

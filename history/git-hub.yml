@@ -1,7 +1,7 @@
 url: https://github.com
-status: up
-code: 200
-responseTime: 146
-lastUpdated: 2023-06-28T23:09:31.661Z
+status: down
+code: 429
+responseTime: 122
+lastUpdated: 2023-06-29T15:25:56.977Z
 startTime: Mon Jan 04 2021 05:42:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $SECRET_QIANDAO
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-21T07:35:01.447Z
+status: up
+code: 200
+responseTime: 1005
+lastUpdated: 2024-01-21T07:49:20.463Z
 startTime: 2021-01-04T05:42:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>

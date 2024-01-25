@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "84.83%",
+    "uptime": "84.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.34%",
+    "uptimeMonth": "58.63%",
     "uptimeYear": "53.74%",
     "time": 154,
-    "timeDay": 54,
+    "timeDay": 45,
     "timeWeek": 138,
-    "timeMonth": 145,
+    "timeMonth": 135,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2024-01-06": 901,
@@ -199,12 +199,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "95.58%",
-    "time": 1374,
-    "timeDay": 1060,
-    "timeWeek": 967,
-    "timeMonth": 933,
-    "timeYear": 1589,
+    "uptimeYear": "95.69%",
+    "time": 1375,
+    "timeDay": 991,
+    "timeWeek": 963,
+    "timeMonth": 939,
+    "timeYear": 1587,
     "dailyMinutesDown": {
       "2024-01-16": 110,
       "2023-11-05": 887,
@@ -237,8 +237,7 @@
       "2023-01-29": 805,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -247,18 +246,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "94.26%",
+    "uptime": "94.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.08%",
-    "uptimeYear": "84.04%",
-    "time": 1782,
+    "uptimeMonth": "32.79%",
+    "uptimeYear": "83.92%",
+    "time": 1784,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1078,
+    "timeMonth": 1076,
     "timeYear": 2108,
     "dailyMinutesDown": {
-      "2024-01-24": 59,
+      "2024-01-25": 59,
+      "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
@@ -343,8 +343,7 @@
       "2023-01-29": 805,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   },
   {
@@ -357,11 +356,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "95.83%",
+    "uptimeYear": "95.94%",
     "time": 858,
-    "timeDay": 899,
-    "timeWeek": 903,
-    "timeMonth": 852,
+    "timeDay": 938,
+    "timeWeek": 904,
+    "timeMonth": 857,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2024-01-16": 148,
@@ -382,8 +381,7 @@
       "2023-01-29": 805,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 1440
+      "2023-01-26": 1440
     }
   }
 ]

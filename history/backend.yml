@@ -1,7 +1,7 @@
 url: $SECRET_BACKEND_SITE
-status: down
-code: 502
-responseTime: 1414
-lastUpdated: 2024-02-06T04:02:34.891Z
+status: up
+code: 200
+responseTime: 1140
+lastUpdated: 2024-02-06T04:21:07.069Z
 startTime: 2021-01-04T05:42:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>

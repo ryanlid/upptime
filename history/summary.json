@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "86.05%",
+    "uptime": "86.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "53.74%",
     "time": 149,
-    "timeDay": 165,
-    "timeWeek": 125,
-    "timeMonth": 174,
+    "timeDay": 164,
+    "timeWeek": 131,
+    "timeMonth": 164,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2024-01-06": 901,
@@ -198,12 +198,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.78%",
     "uptimeMonth": "98.11%",
-    "uptimeYear": "88.18%",
-    "time": 1415,
-    "timeDay": 908,
-    "timeWeek": 903,
+    "uptimeYear": "88.46%",
+    "time": 1416,
+    "timeDay": 928,
+    "timeWeek": 901,
     "timeMonth": 904,
-    "timeYear": 1633,
+    "timeYear": 1632,
     "dailyMinutesDown": {
       "2024-04-25": 76,
       "2024-04-24": 753,
@@ -265,8 +265,7 @@
       "2023-07-20": 53,
       "2023-05-05": 880,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -275,16 +274,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "up",
-    "uptime": "91.76%",
+    "uptime": "91.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.78%",
     "uptimeMonth": "98.11%",
-    "uptimeYear": "75.72%",
+    "uptimeYear": "76.00%",
     "time": 1869,
-    "timeDay": 1079,
-    "timeWeek": 1028,
-    "timeMonth": 1000,
-    "timeYear": 2175,
+    "timeDay": 1031,
+    "timeWeek": 1021,
+    "timeMonth": 1006,
+    "timeYear": 2172,
     "dailyMinutesDown": {
       "2024-04-25": 76,
       "2024-04-24": 753,
@@ -404,8 +403,7 @@
       "2023-06-13": 15,
       "2023-05-05": 880,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -414,10 +412,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "91.92%",
+    "uptime": "91.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "75.58%",
     "time": 850,
     "timeDay": 0,
@@ -425,7 +423,8 @@
     "timeMonth": 0,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2024-04-30": 56,
+      "2024-05-01": 61,
+      "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -518,8 +517,7 @@
       "2023-08-03": 632,
       "2023-05-05": 880,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   }
 ]

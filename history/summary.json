@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.76%",
+    "uptimeYear": "82.03%",
     "time": 144,
-    "timeDay": 34,
-    "timeWeek": 127,
+    "timeDay": 154,
+    "timeWeek": 140,
     "timeMonth": 124,
     "timeYear": 139,
     "dailyMinutesDown": {
@@ -79,8 +79,7 @@
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440
+      "2023-11-04": 1440
     }
   },
   {
@@ -89,15 +88,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "up",
-    "uptime": "92.43%",
+    "uptime": "92.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.94%",
-    "time": 1071,
-    "timeDay": 1242,
-    "timeWeek": 1029,
-    "timeMonth": 1042,
+    "time": 1070,
+    "timeDay": 729,
+    "timeWeek": 1000,
+    "timeMonth": 1035,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2024-09-14": 458,
@@ -194,8 +193,7 @@
       "2024-01-31": 725,
       "2024-01-16": 110,
       "2023-11-05": 887,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440
+      "2023-11-04": 1440
     }
   },
   {
@@ -204,18 +202,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "85.68%",
+    "uptime": "85.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.53%",
-    "time": 1393,
+    "uptimeYear": "56.26%",
+    "time": 1366,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2024-11-01": 78,
+      "2024-11-02": 71,
+      "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -383,8 +382,7 @@
       "2024-01-04": 518,
       "2023-12-26": 64,
       "2023-11-05": 887,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440
+      "2023-11-04": 1440
     }
   },
   {
@@ -393,18 +391,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "79.74%",
+    "uptime": "79.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.72%",
+    "uptimeYear": "26.45%",
     "time": 847,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 854,
+    "timeYear": 855,
     "dailyMinutesDown": {
-      "2024-11-01": 78,
+      "2024-11-02": 71,
+      "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -675,8 +674,7 @@
       "2024-01-16": 148,
       "2024-01-15": 33,
       "2023-11-05": 887,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440
+      "2023-11-04": 1440
     }
   }
 ]

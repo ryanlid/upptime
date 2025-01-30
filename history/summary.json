@@ -4,19 +4,19 @@
     "url": "https://github.com",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "88.63%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 59,
-    "timeWeek": 135,
-    "timeMonth": 151,
+    "timeDay": 88,
+    "timeWeek": 136,
+    "timeMonth": 150,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-01-30": 1
+      "2025-01-30": 17
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2025-01-30": 868,
+      "2025-01-30": 885,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 1021,
     "dailyMinutesDown": {
-      "2025-01-30": 868,
+      "2025-01-30": 885,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -443,7 +443,7 @@
     "timeMonth": 0,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2025-01-30": 868,
+      "2025-01-30": 885,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,

@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 37,
-    "timeWeek": 137,
-    "timeMonth": 126,
+    "timeDay": 370,
+    "timeWeek": 185,
+    "timeMonth": 133,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2025-01-30": 17
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "up",
-    "uptime": "88.36%",
+    "uptime": "88.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "51.80%",
-    "uptimeMonth": "10.01%",
-    "uptimeYear": "61.16%",
+    "uptimeWeek": "66.08%",
+    "uptimeMonth": "13.30%",
+    "uptimeYear": "61.43%",
     "time": 974,
-    "timeDay": 1282,
-    "timeWeek": 1237,
-    "timeMonth": 1237,
+    "timeDay": 1186,
+    "timeWeek": 1229,
+    "timeMonth": 1229,
     "timeYear": 988,
     "dailyMinutesDown": {
       "2025-02-20": 613,
@@ -179,8 +179,7 @@
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
-      "2024-02-27": 1440,
-      "2024-02-26": 1440
+      "2024-02-27": 1440
     }
   },
   {
@@ -189,15 +188,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "up",
-    "uptime": "79.70%",
+    "uptime": "79.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "51.80%",
-    "uptimeMonth": "10.01%",
-    "uptimeYear": "37.44%",
-    "time": 1074,
-    "timeDay": 1046,
-    "timeWeek": 971,
-    "timeMonth": 971,
+    "uptimeWeek": "66.08%",
+    "uptimeMonth": "13.30%",
+    "uptimeYear": "37.71%",
+    "time": 1073,
+    "timeDay": 964,
+    "timeWeek": 970,
+    "timeMonth": 970,
     "timeYear": 1011,
     "dailyMinutesDown": {
       "2025-02-20": 614,
@@ -430,8 +429,7 @@
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
-      "2024-02-27": 1440,
-      "2024-02-26": 1440
+      "2024-02-27": 1440
     }
   },
   {
@@ -440,18 +438,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "73.68%",
+    "uptime": "73.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 854,
+    "time": 855,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-24": 75,
+      "2025-02-25": 74,
+      "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
@@ -814,8 +813,7 @@
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
-      "2024-02-27": 1440,
-      "2024-02-26": 1440
+      "2024-02-27": 1440
     }
   }
 ]

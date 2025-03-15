@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 136,
-    "timeWeek": 170,
-    "timeMonth": 156,
+    "timeDay": 66,
+    "timeWeek": 157,
+    "timeMonth": 153,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2025-01-30": 17
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "up",
-    "uptime": "88.50%",
+    "uptime": "88.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.05%",
+    "uptimeMonth": "82.33%",
     "uptimeYear": "66.27%",
     "time": 981,
-    "timeDay": 1279,
-    "timeWeek": 1108,
-    "timeMonth": 1147,
-    "timeYear": 995,
+    "timeDay": 1052,
+    "timeWeek": 1100,
+    "timeMonth": 1143,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2025-02-20": 613,
       "2025-02-19": 1440,
@@ -172,9 +172,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "79.52%",
+    "uptime": "79.47%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.39%",
+    "uptimeWeek": "0.00%",
     "uptimeMonth": "57.97%",
     "uptimeYear": "40.89%",
     "time": 1085,
@@ -183,7 +183,8 @@
     "timeMonth": 1366,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2025-03-14": 75,
+      "2025-03-15": 74,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -403,8 +404,7 @@
       "2024-06-13": 300,
       "2024-05-21": 20,
       "2024-04-25": 76,
-      "2024-04-24": 753,
-      "2024-03-15": 980
+      "2024-04-24": 753
     }
   },
   {
@@ -413,18 +413,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "72.81%",
+    "uptime": "72.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 848,
+    "time": 849,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 75,
+      "2025-03-15": 74,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -787,8 +788,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   }
 ]

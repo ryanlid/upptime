@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 209,
-    "timeDay": 230,
+    "timeDay": 176,
     "timeWeek": 151,
-    "timeMonth": 169,
+    "timeMonth": 173,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2025-08-22": 15,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "down",
-    "uptime": "81.47%",
+    "uptime": "81.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "40.31%",
+    "uptimeYear": "40.03%",
     "time": 1036,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1068,
+    "timeYear": 1069,
     "dailyMinutesDown": {
-      "2025-10-16": 78,
+      "2025-10-17": 78,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -271,7 +272,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "69.68%",
+    "uptime": "69.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -282,7 +283,8 @@
     "timeMonth": 0,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2025-10-16": 78,
+      "2025-10-17": 78,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -627,8 +629,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 1440
+      "2024-10-18": 1440
     }
   },
   {
@@ -637,7 +638,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "63.80%",
+    "uptime": "63.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -648,7 +649,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 79,
+      "2025-10-17": 78,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -1011,8 +1013,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 1440
+      "2024-10-18": 1440
     }
   }
 ]

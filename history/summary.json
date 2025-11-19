@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 214,
-    "timeDay": 176,
-    "timeWeek": 226,
-    "timeMonth": 181,
+    "timeDay": 178,
+    "timeWeek": 227,
+    "timeMonth": 173,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-08-22": 15,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "down",
-    "uptime": "79.95%",
+    "uptime": "79.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.26%",
+    "uptimeYear": "30.99%",
     "time": 1060,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1081,
+    "timeYear": 1080,
     "dailyMinutesDown": {
-      "2025-11-18": 82,
+      "2025-11-19": 82,
+      "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -304,18 +305,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "68.39%",
+    "uptime": "68.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "5.41%",
-    "time": 1199,
+    "time": 1204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2025-11-18": 83,
+      "2025-11-19": 82,
+      "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -660,8 +662,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   },
   {
@@ -670,7 +671,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "62.62%",
+    "uptime": "62.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -681,7 +682,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 83,
+      "2025-11-19": 82,
+      "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1044,8 +1046,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   }
 ]

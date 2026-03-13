@@ -8,12 +8,12 @@
     "uptime": "90.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.58%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "98.93%",
-    "time": 221,
-    "timeDay": 261,
-    "timeWeek": 186,
-    "timeMonth": 236,
+    "time": 220,
+    "timeDay": 174,
+    "timeWeek": 197,
+    "timeMonth": 224,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2026-02-26": 55,
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "down",
-    "uptime": "75.14%",
+    "uptime": "75.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "19.26%",
-    "time": 1070,
+    "uptimeYear": "18.99%",
+    "time": 1069,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1047,
+    "timeYear": 1049,
     "dailyMinutesDown": {
-      "2026-03-12": 119,
+      "2026-03-13": 117,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -358,7 +359,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "64.27%",
+    "uptime": "64.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -369,7 +370,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-12": 119,
+      "2026-03-13": 117,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -732,8 +734,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440
+      "2025-03-14": 1440
     }
   },
   {
@@ -742,7 +743,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "58.84%",
+    "uptime": "58.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -753,7 +754,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-12": 120,
+      "2026-03-13": 117,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -1116,8 +1118,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440
+      "2025-03-14": 1440
     }
   }
 ]

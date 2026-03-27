@@ -8,13 +8,13 @@
     "uptime": "90.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 221,
-    "timeDay": 82,
-    "timeWeek": 166,
-    "timeMonth": 193,
-    "timeYear": 262,
+    "timeDay": 44,
+    "timeWeek": 111,
+    "timeMonth": 176,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2026-02-26": 55,
       "2026-02-21": 20,
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "down",
-    "uptime": "74.59%",
+    "uptime": "74.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "15.42%",
+    "uptimeYear": "15.15%",
     "time": 1078,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1049,
+    "timeYear": 1051,
     "dailyMinutesDown": {
-      "2026-03-26": 130,
+      "2026-03-27": 131,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -372,7 +373,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "63.80%",
+    "uptime": "63.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -383,7 +384,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 130,
+      "2026-03-27": 131,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -746,8 +748,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -756,7 +757,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "58.41%",
+    "uptime": "58.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -767,7 +768,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-26": 130,
+      "2026-03-27": 131,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -1130,8 +1132,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   }
 ]

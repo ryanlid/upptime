@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 226,
-    "timeDay": 48,
-    "timeWeek": 225,
-    "timeMonth": 228,
-    "timeYear": 270,
+    "timeDay": 261,
+    "timeWeek": 251,
+    "timeMonth": 235,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2026-02-26": 55,
       "2026-02-21": 20,
@@ -32,8 +32,7 @@
       "2025-06-27": 16,
       "2025-06-03": 16,
       "2025-04-29": 20,
-      "2025-04-17": 17,
-      "2025-04-15": 18
+      "2025-04-17": 17
     }
   },
   {
@@ -42,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "down",
-    "uptime": "73.85%",
+    "uptime": "73.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.22%",
-    "time": 1074,
+    "uptimeYear": "9.94%",
+    "time": 1071,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1053,
+    "timeYear": 1055,
     "dailyMinutesDown": {
-      "2026-04-14": 147,
+      "2026-04-15": 145,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -390,7 +390,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "63.17%",
+    "uptime": "63.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -401,7 +401,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 147,
+      "2026-04-15": 145,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -764,8 +765,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   },
   {
@@ -774,7 +774,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "57.84%",
+    "uptime": "57.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -785,7 +785,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 147,
+      "2026-04-15": 145,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -1148,8 +1149,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   }
 ]

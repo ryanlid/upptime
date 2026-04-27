@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.92%",
-    "time": 227,
-    "timeDay": 184,
-    "timeWeek": 187,
-    "timeMonth": 212,
+    "time": 228,
+    "timeDay": 221,
+    "timeWeek": 207,
+    "timeMonth": 217,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2026-04-18": 93,
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "down",
-    "uptime": "73.39%",
+    "uptime": "73.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.93%",
+    "uptimeYear": "6.65%",
     "time": 1071,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1066,
+    "timeYear": 1060,
     "dailyMinutesDown": {
-      "2026-04-26": 156,
+      "2026-04-27": 158,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -401,7 +402,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "62.78%",
+    "uptime": "62.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -412,7 +413,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 156,
+      "2026-04-27": 158,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -775,8 +777,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -785,7 +786,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "57.48%",
+    "uptime": "57.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -796,7 +797,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 156,
+      "2026-04-27": 158,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -1159,8 +1161,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   }
 ]

@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 233,
-    "timeDay": 333,
-    "timeWeek": 317,
-    "timeMonth": 280,
+    "timeDay": 49,
+    "timeWeek": 296,
+    "timeMonth": 273,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2026-04-18": 93,
@@ -40,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "down",
-    "uptime": "72.49%",
+    "uptime": "72.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.34%",
+    "uptimeYear": "0.07%",
     "time": 1071,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1000,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-20": 206,
+      "2026-05-21": 212,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -414,8 +415,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 880
+      "2025-05-22": 1440
     }
   },
   {
@@ -424,7 +424,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "62.01%",
+    "uptime": "61.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -435,7 +435,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-20": 206,
+      "2026-05-21": 212,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -798,8 +799,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   },
   {
@@ -808,7 +808,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "56.77%",
+    "uptime": "56.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -819,7 +819,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-20": 206,
+      "2026-05-21": 212,
+      "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -1182,8 +1183,7 @@
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
-      "2025-05-22": 1440,
-      "2025-05-21": 1440
+      "2025-05-22": 1440
     }
   }
 ]

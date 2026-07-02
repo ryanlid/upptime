@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "91.36%",
+    "uptime": "91.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
     "time": 236,
-    "timeDay": 60,
-    "timeWeek": 136,
-    "timeMonth": 146,
+    "timeDay": 43,
+    "timeWeek": 139,
+    "timeMonth": 139,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-08-22": 15,
@@ -38,7 +38,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "down",
-    "uptime": "70.97%",
+    "uptime": "70.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -49,7 +49,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 219,
+      "2026-07-02": 205,
+      "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -412,8 +413,7 @@
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
-      "2025-07-03": 1440,
-      "2025-07-02": 1440
+      "2025-07-03": 1440
     }
   },
   {
@@ -422,18 +422,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "60.71%",
+    "uptime": "60.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1366,
+    "time": 1390,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 219,
+      "2026-07-02": 205,
+      "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -796,8 +797,7 @@
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
-      "2025-07-03": 1440,
-      "2025-07-02": 1440
+      "2025-07-03": 1440
     }
   },
   {
@@ -806,7 +806,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "55.58%",
+    "uptime": "55.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -817,7 +817,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 219,
+      "2026-07-02": 205,
+      "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -1180,8 +1181,7 @@
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
-      "2025-07-03": 1440,
-      "2025-07-02": 1440
+      "2025-07-03": 1440
     }
   }
 ]

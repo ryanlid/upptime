@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "91.82%",
+    "uptime": "91.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
     "time": 202,
-    "timeDay": 25,
-    "timeWeek": 142,
-    "timeMonth": 198,
+    "timeDay": 217,
+    "timeWeek": 169,
+    "timeMonth": 197,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2025-12-11": 35,
@@ -37,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
     "status": "down",
-    "uptime": "67.19%",
+    "uptime": "67.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -48,7 +48,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 199,
+      "2026-10-23": 204,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -411,8 +412,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   },
   {
@@ -421,7 +421,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "57.47%",
+    "uptime": "57.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -432,7 +432,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 199,
+      "2026-10-23": 204,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -795,8 +796,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   },
   {
@@ -805,7 +805,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
     "status": "down",
-    "uptime": "52.62%",
+    "uptime": "52.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -816,7 +816,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 199,
+      "2026-10-23": 204,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1179,8 +1180,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   }
 ]

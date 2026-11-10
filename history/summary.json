@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
     "time": 197,
-    "timeDay": 402,
-    "timeWeek": 240,
-    "timeMonth": 192,
-    "timeYear": 203,
+    "timeDay": 0,
+    "timeWeek": 213,
+    "timeMonth": 181,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2025-12-11": 35,
       "2025-12-15": 16,
@@ -36,12 +36,12 @@
     "url": "https://www.yidiankuaile.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yidiankuaile.com.ico",
     "slug": "yidiankuaile",
-    "status": "up",
-    "uptime": "66.59%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.00%",
+    "status": "down",
+    "uptime": "66.60%",
+    "uptimeDay": "24.05%",
+    "uptimeWeek": "3.44%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeYear": "0.07%",
     "time": 520,
     "timeDay": 520,
     "timeWeek": 520,
@@ -412,7 +412,7 @@
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
-      "2025-11-10": 1440
+      "2026-11-10": 1
     }
   },
   {
@@ -421,7 +421,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "56.96%",
+    "uptime": "56.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -432,7 +432,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-09": 1348,
+      "2026-11-10": 255,
+      "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -795,8 +796,7 @@
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
-      "2025-11-11": 1440,
-      "2025-11-10": 1440
+      "2025-11-11": 1440
     }
   },
   {
@@ -804,12 +804,12 @@
     "url": "$SECRET_QIANDAO",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qiandao",
-    "status": "up",
-    "uptime": "52.15%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "status": "down",
+    "uptime": "52.16%",
+    "uptimeDay": "24.07%",
+    "uptimeWeek": "3.44%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeYear": "0.07%",
     "time": 445,
     "timeDay": 445,
     "timeWeek": 445,
@@ -1180,7 +1180,7 @@
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
-      "2025-11-10": 1440
+      "2026-11-10": 0
     }
   }
 ]
